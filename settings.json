@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "reghiilamaincraft.aternos.me",
-    "port": 42139,
+    "port": "42139",
     "version": "",
     "try-creative": false
   },
