@@ -1,7 +1,7 @@
 {
-  "name": "AFKBot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Mentinereserveronline",
+    "username": "BotAFK",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Sunt un BOT afk ca sa mentin serverul online",
-        "Jmecher in romania!",
-        "Reghii la maincraft",
+        "Doar nu ma baga in seama",
+        "Sunt un bot afk",
+        "Mentin serverul online"
       ]
     },
     "chat-log": true,
